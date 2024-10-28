@@ -1,5 +1,5 @@
 # Hello, I'm Ashli
-<a href="[https://linkedin.com](https://www.linkedin.com/in/ashli-foster-8b2b44b5/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/ashli-foster-8b2b44b5/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
