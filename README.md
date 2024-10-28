@@ -1,8 +1,7 @@
 # Hello, I'm Ashli
 <a href="https://www.linkedin.com/in/ashli-foster-8b2b44b5/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional with a Bachelor of Science in IT Management and a Cybersecurity Bootcamp Certification from the University of Texas at San Antonio. Armed with CompTIA Security+ and a robust skill set with a solid foundation in IT management and extensive experience in customer care and technical support roles. Result driven with skills in addressing complex issues, ensure data privacy, and conduct thorough troubleshooting. I am trained to possess a proactive approach, combined with strong interpersonal and analytical skills to collaborate effectively with cross-functional teams and uphold industry standards in cybersecurity, ensuring the integrity of online transactions and customer data.
 
 ## Objective
 
